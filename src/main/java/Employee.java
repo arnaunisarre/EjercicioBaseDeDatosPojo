@@ -2,6 +2,7 @@ public class Employee {
 
     int id;
     String name;
+    int salary;
 
     public int getId() {
         return id;
@@ -27,7 +28,7 @@ public class Employee {
         this.salary = salary;
     }
 
-    int salary;
+
 
 
 
